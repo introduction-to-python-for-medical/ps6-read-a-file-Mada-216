@@ -8,4 +8,4 @@ def create_codon_dict(file_path):
        codon = row_cells [0]
        amino_acid = row_cells[2]
        dictionary[codon] = amino_acid 
-return dictionary 
+  return dictionary 
